@@ -14,26 +14,13 @@
 ### 🛠️ Frameworks & Tools
 [![Frameworks](https://skillicons.dev/icons?i=tauri,androidstudio,spring,kubernetes,docker,windows,idea,nodejs,nextjs&theme=dark)](https://skillicons.dev)
 
-<br clear="right"/>
-
----
-
 ### 📩 Get in touch
 
-<p align="left">
-  <a href="mailto:matejromis@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Email" height="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://discord.com/users/1056299574228172830">
-    <img src="https://skillicons.dev/icons?i=discord&theme=dark" alt="Discord" height="40" />
-  </a>
-</p>
+**`EMAIL`** ➜ [matejromis@gmail.com](mailto:matejromis@gmail.com)  
+**`DISCORD`** ➜ [emko.dev](https://discord.com/users/1056299574228172830)
 
 <br/>
 
 > [!IMPORTANT]
 > **Please skip the "Hello"** — If you have a question or a proposal, just dive right in!  
 > Check out [nohello.net](https://nohello.net/en/) to see why.
-
----
